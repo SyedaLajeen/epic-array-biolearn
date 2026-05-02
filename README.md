@@ -2,20 +2,6 @@
 # 🧬 EPIC Array — Multiple Biomarkers of Aging
 ### Benchmarking & Evaluation of 8 Epigenetic Aging Clocks Across Two GEO Datasets Using the Bio-Learn Library
 
-<br>
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/epic-array-aging-clocks/blob/main/notebook/EPIC_Array_BioLearn_Final.ipynb)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
-&nbsp;
-![biolearn](https://img.shields.io/badge/biolearn-latest-4CAF50)
-&nbsp;
-![Platform](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-&nbsp;
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
----
-
 ## 📌 Project Overview
 
 This project performs a **comprehensive benchmarking and evaluation of 8 epigenetic aging clocks** across two publicly available DNA methylation datasets from the **Bio-Learn paper** (Ying et al., 2025, *Nature Aging*). The analysis covers the full pipeline — from raw GEO data loading to multi-dimensional clock comparison — and produces publication-quality visualisations including correlation matrices, age deviation heatmaps, and prediction scatter plots.
