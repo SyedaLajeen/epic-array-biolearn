@@ -1,0 +1,5 @@
+Clock,Pearson_r,R2,MAE_yrs,RMSE_yrs,N
+CausAge,0.97,0.94,11.23,13.28,113
+PhenoAge,0.953,0.909,9.64,13.21,113
+Zhang-10,0.718,0.515,40.7,44.56,113
+DunedinPACE,0.374,0.14,36.55,40.99,113
